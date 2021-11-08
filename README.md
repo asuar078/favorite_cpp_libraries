@@ -10,6 +10,8 @@ List of some of my favorite C++ libraries
 | Backward | backtrace on expections | https://github.com/bombela/backward-cpp |
 | cs libguarded | Makes multithreading so much easier | https://github.com/copperspice/cs_libguarded |
 | Concurrent Queue | Industrial-strength lock-free queue  | https://github.com/cameron314/concurrentqueue |
+| Outcome | Reporting and handling function failures. It can be used as a substitute for exceptions.| https://github.com/ned14/outcome | 
+
 
 
 
